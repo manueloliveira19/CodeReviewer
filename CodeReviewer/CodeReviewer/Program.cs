@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace CodeReviewer
 {
@@ -10,7 +12,6 @@ namespace CodeReviewer
             Console.WriteLine("Noice");
             RandomIfCode("2");
             var x = RandomEarlyReturn();
-            Console.WriteLine(z);
         }
 
         private static void RandomCode()
