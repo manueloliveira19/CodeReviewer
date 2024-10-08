@@ -1,0 +1,15 @@
+C:\buildium\practiceWeek\CodeReviewer\CodeReviewer\CodeReviewer\bin\Debug\net8.0\CodeReviewer.exe
+C:\buildium\practiceWeek\CodeReviewer\CodeReviewer\CodeReviewer\bin\Debug\net8.0\CodeReviewer.deps.json
+C:\buildium\practiceWeek\CodeReviewer\CodeReviewer\CodeReviewer\bin\Debug\net8.0\CodeReviewer.runtimeconfig.json
+C:\buildium\practiceWeek\CodeReviewer\CodeReviewer\CodeReviewer\bin\Debug\net8.0\CodeReviewer.dll
+C:\buildium\practiceWeek\CodeReviewer\CodeReviewer\CodeReviewer\bin\Debug\net8.0\CodeReviewer.pdb
+C:\buildium\practiceWeek\CodeReviewer\CodeReviewer\CodeReviewer\obj\Debug\net8.0\CodeReviewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\buildium\practiceWeek\CodeReviewer\CodeReviewer\CodeReviewer\obj\Debug\net8.0\CodeReviewer.AssemblyInfoInputs.cache
+C:\buildium\practiceWeek\CodeReviewer\CodeReviewer\CodeReviewer\obj\Debug\net8.0\CodeReviewer.AssemblyInfo.cs
+C:\buildium\practiceWeek\CodeReviewer\CodeReviewer\CodeReviewer\obj\Debug\net8.0\CodeReviewer.csproj.CoreCompileInputs.cache
+C:\buildium\practiceWeek\CodeReviewer\CodeReviewer\CodeReviewer\obj\Debug\net8.0\CodeReviewer.sourcelink.json
+C:\buildium\practiceWeek\CodeReviewer\CodeReviewer\CodeReviewer\obj\Debug\net8.0\CodeReviewer.dll
+C:\buildium\practiceWeek\CodeReviewer\CodeReviewer\CodeReviewer\obj\Debug\net8.0\refint\CodeReviewer.dll
+C:\buildium\practiceWeek\CodeReviewer\CodeReviewer\CodeReviewer\obj\Debug\net8.0\CodeReviewer.pdb
+C:\buildium\practiceWeek\CodeReviewer\CodeReviewer\CodeReviewer\obj\Debug\net8.0\CodeReviewer.genruntimeconfig.cache
+C:\buildium\practiceWeek\CodeReviewer\CodeReviewer\CodeReviewer\obj\Debug\net8.0\ref\CodeReviewer.dll
