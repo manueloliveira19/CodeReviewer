@@ -12,6 +12,8 @@ namespace CodeReviewer
             Console.WriteLine("Noice");
             RandomIfCode("2");
             var x = RandomEarlyReturn();
+            
+            Console.WriteLine(z);
         }
 
         private static void RandomCode()
